@@ -1,0 +1,20 @@
+[18-01-2022 - 18:30:51] Try login with qa.ajax.app.automation@gmail.com | qa_automation_password
+[18-01-2022 - 18:30:54] Login success
+[18-01-2022 - 18:31:10] Try login with 123 | 123
+[18-01-2022 - 18:31:11] Wrong login or password
+[18-01-2022 - 18:31:28] Try login with  | 
+[18-01-2022 - 18:31:29] Please fill all of the required fields.
+[18-01-2022 - 18:31:46] Try login with qa.ajax.app.automation@gmail.com | 123
+[18-01-2022 - 18:31:47] Wrong login or password
+[18-01-2022 - 18:32:04] Try login with 123 | qa_automation_password
+[18-01-2022 - 18:32:05] Wrong login or password
+[18-01-2022 - 19:04:40] Looking for "addHub" in SideBar
+[18-01-2022 - 19:04:40] Element "addHub" in SideBar
+[18-01-2022 - 19:05:04] Looking for "settings" in SideBar
+[18-01-2022 - 19:05:04] Element "settings" in SideBar
+[18-01-2022 - 19:05:27] Looking for "help" in SideBar
+[18-01-2022 - 19:05:28] Element "help" in SideBar
+[18-01-2022 - 19:05:52] Looking for "logs" in SideBar
+[18-01-2022 - 19:05:52] Element "logs" in SideBar
+[18-01-2022 - 19:06:16] Looking for "rules" in SideBar
+[18-01-2022 - 19:06:16] Element "rules" not in SideBar
